@@ -1,5 +1,5 @@
 <div style="margin-left: auto; margin-right: auto; width: 60%">
-    <img src="https://raw.githubusercontent.com/SemBeacon/sembeacon.org/main/src/site/images/logo.svg?token=GHSAT0AAAAAAB526A7MZ4FWKZQ3BOID7QNSY6O6UWA" width="100%">
+    <img src="https://sembeacon.org/images/logo.svg" width="100%">
 </div>
 
 Hi there! I am [Maxim Van de Wynckel](https://maximvdw.be), a PhD candidate at the Vrije Universiteit Brussel where SemBeacon was created. Together with my supervisor Dr. [Beat Signer](https://beatsigner.com)
