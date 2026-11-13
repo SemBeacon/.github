@@ -2,9 +2,13 @@
     <img src="https://sembeacon.org/images/logo.svg" width="100%">
 </div>
 
-Hi there! I am [Maxim Van de Wynckel](https://maximvdw.be), a PhD candidate at the Vrije Universiteit Brussel where SemBeacon was created. Together with my supervisor Dr. [Beat Signer](https://beatsigner.com)
-we created the SemBeacon specification to allow for interoperable positioning systems and to aid the discovery of physical and interactable objects within the environments these
-beacons are installed in. Our profile contains various repositories with tools to aid in this ongoing project.
+SemBeacon is a semantic Bluetooth Low Energy beacon specification created as part of the PhD research of
+[Dr. Maxim Van de Wynckel](https://maximvdw.be) at the Vrije Universiteit Brussel, together with his supervisor
+Prof. Dr. [Beat Signer](https://beatsigner.com). The specification allows for interoperable positioning systems and
+aids the discovery of physical and interactable objects within the environments these beacons are installed in.
+
+The project is currently maintained by [MVdW-Software](https://mvdw-software.com), the software consultancy of
+Dr. Maxim Van de Wynckel. Our profile contains various repositories with tools to aid in this ongoing project.
 
 ## About
 SemBeacon is a Bluetooth Low Energy specification and vocabulary for describing beacons and the environments they are installed in. Our solution combines AltBeacon with a
